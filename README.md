@@ -12,6 +12,7 @@ This is a non blocking Modbus client (master) for ESP32.
   - read discrete inputs (02)
   - read holding registers (03)
   - read input registers (04)
+  - write muliple holding registers (10)
 - similar API as my [esp32ModbusTCP](https://github.com/bertmelis/esp32ModbusTCP) implementation
 
 ## Developement status
